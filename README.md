@@ -1,8 +1,8 @@
-# Cuentamuertes web
+# Tiradados web
 ----
 
 ## Definición de proyecto
-Este proyecto es un contador de muertes web-based orientado a personas que crean contenido en plataformas de streaming como Twitch, o que llevan una mesa de Roleplay a distancia y quieren un lugar centralizado donde lanzar unos dados justos de forma que no suponga mucho problema y no interrumpa la partida, y en el caso del streamer, utilizando poca carga de sistema gracias al diseño ligero de frontend, y facilidad de compartir estas tiradas gracias a la pestaña de dado autoactualizada
+Este proyecto es un lanzador de dados web-based orientado a personas que crean contenido en plataformas de streaming como Twitch, o que llevan una mesa de Roleplay a distancia y quieren un lugar centralizado donde lanzar unos dados justos de forma que no suponga mucho problema y no interrumpa la partida, y en el caso del streamer, utilizando poca carga de sistema gracias al diseño ligero de frontend, y facilidad de compartir estas tiradas gracias a la pestaña de dado autoactualizada
 
 ## A quién va dirigido
 Este es un proyecto principalmente enfocado a personas que creen contenido de juegos de rol de mesa, como [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons), sea para una audiencia en internet, o para una mesa personal con compañía pero sin estar en el foco de internet.
